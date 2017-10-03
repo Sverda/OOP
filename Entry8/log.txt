@@ -1,0 +1,102 @@
+Tue Apr 18 11:34:42 2017
+ Rozpoczecie dzialania programu
+Tue Apr 18 11:34:44 2017
+ Podana nazwa: s, liczba naturalna: 2
+Tue Apr 18 11:34:44 2017
+ Wylosowano znak: V
+Tue Apr 18 11:34:46 2017
+ Uzytkownik podal poprawny znak: V
+Tue Apr 18 11:34:46 2017
+ Wylosowano znak: N
+Tue Apr 18 11:34:47 2017
+ Uzytkownik podal bledny znak: j
+Tue Apr 18 11:34:47 2017
+ Zdobytych punktow: 1, czas (w sekundach): 3.000000
+Tue Apr 18 11:34:47 2017
+ Zapisano wynik do s.txt
+Tue Apr 18 11:34:47 2017
+ Zakonczenie dzialania programu
+
+Tue Apr 18 11:34:48 2017
+ Rozpoczecie dzialania programu
+Tue Apr 18 11:34:50 2017
+ Podana nazwa: s, liczba naturalna: 3
+Tue Apr 18 11:34:50 2017
+ Wylosowano znak: j
+Tue Apr 18 11:34:51 2017
+ Uzytkownik podal poprawny znak: j
+Tue Apr 18 11:34:51 2017
+ Wylosowano znak: m
+Tue Apr 18 11:34:52 2017
+ Uzytkownik podal poprawny znak: m
+Tue Apr 18 11:34:52 2017
+ Wylosowano znak: p
+Tue Apr 18 11:34:53 2017
+ Uzytkownik podal bledny znak: a
+Tue Apr 18 11:34:53 2017
+ Zdobytych punktow: 2, czas (w sekundach): 3.000000
+Tue Apr 18 11:34:53 2017
+ Zapisano wynik do s.txt
+Tue Apr 18 11:34:53 2017
+ Zakonczenie dzialania programu
+
+Tue Apr 18 12:38:43 2017
+ Rozpoczecie dzialania programu
+Tue Apr 18 12:38:45 2017
+ Podana nazwa: s, liczba naturalna: 2
+Tue Apr 18 12:38:45 2017
+ Wylosowano znak: q
+Tue Apr 18 12:38:46 2017
+ Uzytkownik podal poprawny znak: q
+Tue Apr 18 12:38:46 2017
+ Wylosowano znak: u
+Tue Apr 18 12:38:47 2017
+ Uzytkownik podal poprawny znak: u
+Tue Apr 18 12:38:47 2017
+ Zdobytych punktow: 2, czas (w sekundach): 2.000000
+Tue Apr 18 12:38:47 2017
+ Zapisano wyniki do s.txt
+Tue Apr 18 12:38:47 2017
+ Zakonczenie dzialania programu
+
+Tue Apr 18 12:56:39 2017
+ Rozpoczecie dzialania programu
+Tue Apr 18 12:56:42 2017
+ Podana nazwa: s, liczba naturalna: 2
+Tue Apr 18 12:56:42 2017
+ Wylosowano znak: w
+Tue Apr 18 12:56:43 2017
+ Uzytkownik podal poprawny znak: w
+Tue Apr 18 12:56:43 2017
+ Wylosowano znak: f
+Tue Apr 18 12:56:44 2017
+ Uzytkownik podal bledny znak: s
+Tue Apr 18 12:56:44 2017
+ Zdobytych punktow: 1, czas (w sekundach): 2.000000
+Tue Apr 18 12:56:44 2017
+ Plik dla podanego nicku nie istnieje. 
+Zostanie utworzony w: C:\Users\Damian\Dropbox\Studies\Object-oriented programming\PO_Labs\Debug
+
+Tue Apr 18 12:58:37 2017
+ Rozpoczecie dzialania programu
+Tue Apr 18 12:58:39 2017
+ Podana nazwa: s, liczba naturalna: 2
+Tue Apr 18 12:58:39 2017
+ Wylosowano znak: m
+Tue Apr 18 12:58:40 2017
+ Uzytkownik podal bledny znak: s
+Tue Apr 18 12:58:40 2017
+ Wylosowano znak: p
+Tue Apr 18 12:58:42 2017
+ Uzytkownik podal poprawny znak: p
+Tue Apr 18 12:58:42 2017
+ Zdobytych punktow: 1, czas (w sekundach): 3.000000
+Tue Apr 18 12:58:42 2017
+ Plik dla podanego nicku nie istnieje. 
+Zostanie utworzony w: C:\Users\Damian\Dropbox\Studies\Object-oriented programming\PO_Labs\Debug
+
+Tue Apr 18 12:58:42 2017
+ Zapisano wyniki do s.txt
+Tue Apr 18 12:58:42 2017
+ Zakonczenie dzialania programu
+

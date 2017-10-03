@@ -1,0 +1,9 @@
+﻿  ubowski_wejsciowka4.c
+c:\users\damian\dropbox\studies\object-oriented programming\po_labs\entry4\ubowski_wejsciowka4.c(17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+c:\users\damian\dropbox\studies\object-oriented programming\po_labs\entry4\ubowski_wejsciowka4.c(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\damian\dropbox\studies\object-oriented programming\po_labs\entry4\ubowski_wejsciowka4.c(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Entry4.vcxproj -> C:\Users\Damian\Dropbox\Studies\Object-oriented programming\PO_Labs\Debug\Entry4.exe
+  Entry4.vcxproj -> C:\Users\Damian\Dropbox\Studies\Object-oriented programming\PO_Labs\Debug\Entry4.pdb (Partial PDB)

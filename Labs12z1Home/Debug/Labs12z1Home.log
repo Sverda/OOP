@@ -1,0 +1,5 @@
+﻿  Engine.cpp
+  ElectricEngine.cpp
+  CombEngine.cpp
+c:\users\damian\dropbox\studies\object-oriented programming\po_labs\labs12z1home\combengine.cpp(7): error C3078: array size must be specified in new expressions
+  Generating Code...

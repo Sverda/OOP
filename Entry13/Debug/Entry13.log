@@ -1,0 +1,9 @@
+﻿  Truck.cpp
+  Passenger.cpp
+  Main.cpp
+  Car.cpp
+c:\users\ubol3\google drive\studies\object-oriented programming\po_labs\entry13\car.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+  Generating Code...
+  Entry13.vcxproj -> C:\Users\Ubol3\Google Drive\Studies\Object-oriented programming\PO_Labs\Debug\Entry13.exe
+  Entry13.vcxproj -> C:\Users\Ubol3\Google Drive\Studies\Object-oriented programming\PO_Labs\Debug\Entry13.pdb (Partial PDB)

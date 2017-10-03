@@ -1,0 +1,4 @@
+﻿  DList.c
+c:\users\damian\dropbox\studies\object-oriented programming\po_labs\lists\dlist.c(18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lists.vcxproj -> C:\Users\Damian\Dropbox\Studies\Object-oriented programming\PO_Labs\Debug\Lists.exe
+  Lists.vcxproj -> C:\Users\Damian\Dropbox\Studies\Object-oriented programming\PO_Labs\Debug\Lists.pdb (Partial PDB)
